@@ -149,7 +149,7 @@ export default function App() {
         <h2>{editing ? 'Edit' : 'Add'} a Team Member</h2>
         <form onSubmit={onSubmit}>
 
-          <div>           {/*  firstname */}
+          <div>           {/*  firstname g*/}
             <label htmlFor="fname">First Name </label>
             <input 
             onChange={onChange}
